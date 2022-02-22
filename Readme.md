@@ -12,10 +12,11 @@ Os simuladores e softwore utilizados são:
 
 ### SimuliDE
 
-No simulide 
+No parte direita do simuliDE podemos encontrar diversos simbolos de componentes eletronicos, por exemplo resistores, amplificadores, geradores, microcontrolares, sensores e entre outros componentes. Para utiliza-los basta arrastarmos com o mouse os simbolos de cada componente e dispor na região quadrilatera (central) da janela, ao insirir todos os componentes desejados basta interlica-los clicando em um dos terminais com o botão direito do mouse e ligar em outro componente, após todos os componentes estarem interligados basta abertar no botão vermelho na parte superior. Como apresentando no Gif abaixo: 
 
 ![Esquema de como é montado um circuito no Simulador](https://1.bp.blogspot.com/-g0PfHcs2isw/XtlQcrj8DVI/AAAAAAAABRo/slmqFRdR6AA6sNNF59r1-NTUvEodcPH8gCLcBGAsYHQ/s1600/circuit.gif)
 
 
+Obs.: É de suma importancia lembrarmos que para a utilização correta do simulador devemos realizar os calculos para cada componente quando necessario, devido como observado nas aulas podem ocorrer erros no simulador, e também para ser realizada uma prática mais adequeda possível.
 
 
